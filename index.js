@@ -22,7 +22,7 @@ PhiloGL('glcanvas',
 		}
 	},
 	
-	textures:{
+	/*textures:{
 		
 		src: ['https://lizgar.github.io/A3D/js/earth.jpg'],
 		parameters: [{
@@ -37,7 +37,7 @@ PhiloGL('glcanvas',
 			
 		]
 	},
-	
+	*/
 	
 
 	
